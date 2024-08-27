@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>SNCF Digital Transformation News</title>
+  <link href="http://sncf.com/news"/>
+  <updated>2024-07-01T00:00:00Z</updated>
+  <id>http://sncf.com/news/feed</id>
+  <author>
+    <name>SNCF Communications</name>
+  </author>
+
+  <entry>
+    <title>SNCF Announces a New CIO to Lead Digital Transformation</title>
+    <link href="http://sncf.com/news/new-cio"/>
+    <id>http://sncf.com/news/new-cio</id>
+    <updated>2024-07-01T00:00:00Z</updated>
+    <content type="html">SNCF has officially announced the appointment of its new Chief Information Officer (CIO), Mr. Claude Bernard, who will take up his position starting October 15. Mr. Bernard, formerly Vice President of Information Systems at Airbus, will be tasked with leading SNCF's digital transformation, focusing on enhancing user experience and operational efficiency through technological innovation.</content>
+  </entry>
+
+  <entry>
+    <title>SNCF Commits to New Urban Mobility Plan in Lyon</title>
+    <link href="http://sncf.com/news/lyon-mobility-plan"/>
+    <id>http://sncf.com/news/lyon-mobility-plan</id>
+    <updated>2024-06-15T00:00:00Z</updated>
+    <content type="html">As part of its commitment to more sustainable and efficient mobility, SNCF has joined forces with the Lyon Metropolis to implement a new urban mobility plan. This project includes the development of several tram lines and the extension of the existing network, aiming to reduce urban congestion and improve air quality in the Lyon area.</content>
+  </entry>
+
+  <entry>
+    <title>SNCF Explores Integration of GOA4 Automated Metro Systems</title>
+    <link href="http://sncf.com/news/goa4-systems"/>
+    <id>http://sncf.com/news/goa4-systems</id>
+    <updated>2024-06-01T00:00:00Z</updated>
+    <content type="html">SNCF announced today its intention to explore the installation of GOA4 level automated metro systems in several major French cities, including Marseille and Toulouse. These driverless systems represent the pinnacle of railway automation, promising greater regularity and safety for metro services.</content>
+  </entry>
+
+  <entry>
+    <title>SNCF Launches First Fully Automated GOA4 Metro in Nice</title>
+    <link href="http://sncf.com/news/goa4-nice"/>
+    <id>http://sncf.com/news/goa4-nice</id>
+    <updated>2024-03-15T00:00:00Z</updated>
+    <content type="html">SNCF today inaugurated the first fully automated GOA4 metro in Nice, marking a major milestone in the automation of public transport in France. The new system requires no drivers and is designed to improve the network's efficiency and capacity while ensuring maximum safety.</content>
+  </entry>
+
+  <entry>
+    <title>SNCF Plans Expansion of GOA4 Metro Network in Lille</title>
+    <link href="http://sncf.com/news/goa4-lille"/>
+    <id>http://sncf.com/news/goa4-lille</id>
+    <updated>2024-02-22T00:00:00Z</updated>
+    <content type="html">As part of its initiative to modernize and expand its transport network, SNCF has announced plans to integrate GOA4 automated metro technology in Lille. This ambitious project aims to transform the transport experience in the region by increasing the frequency and reliability of metro services.</content>
+  </entry>
+
+</feed>
